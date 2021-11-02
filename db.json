@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Witchcraft",
+      "number": "999-999-99",
+      "id": "id-1"
+    },
+    {
+      "name": "HellSupport",
+      "number": "666-666-66",
+      "id": "id-2"
+    },
+    {
+      "name": "Cops",
+      "number": "123-456-78",
+      "id": "id-3"
+    },
+    {
+      "name": "Meds",
+      "number": "911-911-11",
+      "id": "id-4"
+    }
+  ]
+}
